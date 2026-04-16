@@ -65,7 +65,7 @@ table {
 body {
   color: rgb(5,5,5);
   /*background-image: url("../images/Homepage_image.png");*/
-  background-color: #bbddf0;
+  background-color: #8fc4ef;
   font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6em;
@@ -352,7 +352,7 @@ table tr:nth-child(even) td{
   margin-top: 50px;
   padding: 20px 50px;
   display: inline-block;
-  background-color: #D3D3FF;
+  background-color: #ba8fef;
 }
 
 .sidebar_title {
@@ -386,7 +386,7 @@ table tr:nth-child(even) td{
 
 
 header {
-  background-color: #bbddf0;
+  background-color: #ba8fef;
 }
 
 /* Add a black background color to the top navigation */
@@ -394,8 +394,8 @@ header {
   display: table;
   margin: 0 auto;
   text-align: center;
-  background-color: #075c56;
-  color: #075c56;
+  background-color: #ba8fef;
+  color: #ba8fef;
   margin-bottom: 50px;
   padding: auto;
 }
