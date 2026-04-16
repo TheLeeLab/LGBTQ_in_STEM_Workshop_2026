@@ -351,7 +351,7 @@ table tr:nth-child(even) td{
   margin-top: 50px;
   padding: 20px 50px;
   display: inline-block;
-  background-color: #eee;
+  background-color: #bbddf0;
 }
 
 .sidebar_title {
@@ -385,7 +385,7 @@ table tr:nth-child(even) td{
 
 
 header {
-  background-color: black;
+  background-color: #bbddf0;
 }
 
 /* Add a black background color to the top navigation */
@@ -393,8 +393,8 @@ header {
   display: table;
   margin: 0 auto;
   text-align: center;
-  background-color: blue;
-  color: blue;
+  background-color: #bbddf0;
+  color: #bbddf0;
   margin-bottom: 50px;
   padding: auto;
 }
@@ -416,7 +416,7 @@ header {
   padding: 0 30px; /* variable width */
   font-weight: normal;
   font-size: 20px;
-  color: white;
+  color: black;
   padding: 16px;
   width: 110px;
 }
