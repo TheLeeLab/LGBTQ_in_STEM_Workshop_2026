@@ -385,7 +385,7 @@ table tr:nth-child(even) td{
 
 
 header {
-  background-color: pink;
+  background-color: black;
 }
 
 /* Add a black background color to the top navigation */
@@ -393,8 +393,8 @@ header {
   display: table;
   margin: 0 auto;
   text-align: center;
-  background-color: pink;
-  color: pink;
+  background-color: blue;
+  color: blue;
   margin-bottom: 50px;
   padding: auto;
 }
