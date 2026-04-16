@@ -65,7 +65,7 @@ table {
 body {
   color: rgb(5,5,5);
   /*background-image: url("../images/Homepage_image.png");*/
-  background-color: #D3D3FF;
+  background-color: #bbddf0;
   font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6em;
@@ -394,8 +394,8 @@ header {
   display: table;
   margin: 0 auto;
   text-align: center;
-  background-color: #bbddf0;
-  color: #bbddf0;
+  background-color: #075c56;
+  color: #075c56;
   margin-bottom: 50px;
   padding: auto;
 }
@@ -417,7 +417,7 @@ header {
   padding: 0 30px; /* variable width */
   font-weight: normal;
   font-size: 20px;
-  color: black;
+  color: white;
   padding: 16px;
   width: 110px;
 }
