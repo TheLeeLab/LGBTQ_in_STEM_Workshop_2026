@@ -255,6 +255,7 @@ table {
   border: 0;
   margin: 30px 0px;
   text-align: left;
+  background-color: #E0FAFF;
  }
 
 table.figure_controls {
@@ -266,7 +267,7 @@ table.figure_controls {
 table caption {
   font-weight: 700;
   text-align: left;
-  background-color: #b7b7b7;
+  background-color: #E0FAFF;
   padding-left: 5px;
 }
 
