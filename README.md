@@ -1,2 +1,2 @@
-# CMM2025_website
-Repository for CMM2025 website
+# LGBTQ_in_STEM_Workshop_2026
+Repository for the LGBTQ+ in STEM Workshop 2026 website
