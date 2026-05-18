@@ -501,9 +501,10 @@ header {
   text-align: center;
   top: 50%;
   left: 50%;
-  color: white;
+  color: black;
   font-size: 20px;
-  color: white;
+  color: black;
+  background-color: white;
   padding-top: 60px;
   padding-bottom: 60px;
   padding-left: 16px;
@@ -515,7 +516,7 @@ header {
 
 .hero-text h1 {
   text-align: center;
-  color: white;
+  color: black;
 }
 /* (end) Banner image formatting ================================== */
 
