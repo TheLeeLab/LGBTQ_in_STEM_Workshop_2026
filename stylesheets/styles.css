@@ -65,7 +65,7 @@ table {
 body {
   color: rgb(5,5,5);
   /*background-image: url("../images/Homepage_image.png");*/
-  background-color: #e7f9d2;
+  background-color: #f0f6f6;
   font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6em;
@@ -278,7 +278,7 @@ th {
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 8px;
-  background: #ba8fef;
+  background: #bbe6e4;
   color: black;
  }
 
@@ -287,7 +287,7 @@ td {
   padding-left: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
-  background: #ba8fef;
+  background: #bbe6e4;
  }
 
 /*
@@ -387,7 +387,7 @@ table tr:nth-child(even) td{
 
 
 header {
-  background-color: #ba8fef;
+  background-color: #084b83;
 }
 
 /* Add a black background color to the top navigation */
